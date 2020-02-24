@@ -1,6 +1,5 @@
 ## Welcome to Dr. Pamela Thompson's Page on Github
-
-You can use the [editor on GitHub](https://github.com/profcatawbadata/profcatawbadata.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Please visit my page for Python and Java code tutorials and projects.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

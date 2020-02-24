@@ -1,7 +1,8 @@
 ## Welcome to Dr. Pamela Thompson's Page on Github
 ## Please visit my page for Python and Java code tutorials and projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<br>
+<a href="http://www.catawba.edu">Catawba College</a>
 
 ### Markdown
 
